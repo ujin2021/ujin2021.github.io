@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
 title                    : "Site Title"
@@ -279,4 +279,4 @@ defaults:
       comments: # true
       share: true
       related: true
-remote_theme : mmistakes/minimal-mistakes
+
