@@ -1,7 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "XProject Raspberrypi"
+date: 2020-06-04 21:38:00 -0400
+categories: raspberrypi server xproject
 ---
-2020 HUFS IA XProject
-raspberry pi setting
+2020 HUFS IA XProject <br>
