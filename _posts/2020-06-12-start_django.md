@@ -1,3 +1,9 @@
+---
+title: "Start django(django관련 command모음)"
+date: 2020-06-12 00:25:00 -0400
+categories: django server python
+---
+
 #### django 시작 명령어
 git bash + vscode <br>
 workspace를 만들 장소 -> git bash here <br>
