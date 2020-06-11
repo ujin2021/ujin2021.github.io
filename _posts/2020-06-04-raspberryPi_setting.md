@@ -6,24 +6,24 @@ categories: raspberrypi server xproject
 ## 2020 HUFS IA XProject
 #### Raspberry pi 서버구축!
 
-### ~200604
+~200604
 #### 1. 장비 대여
 * raspberry pi 3(model B+) <br>
 * sdcard <br>
 * 5핀 충전선 <br>
 * HDMI 선 <br>
 * monitor(빌리지 않고 실험실에 있는거 아무거나 사용)<br>
-* usb 포트 keyboard, mouse
+* usb 포트 keyboard, mouse <br>
 
-#### 2. raspberry pi setting
-1. sd카드를 포맷한다(cmd로도 가능) - sdcard formatter 설치 후 format하면 됨. <br>
-2. sd카드를 노트북에 꼽고 rasbian write. os설치 후 프로그램을 실행하면 자동으로 어떤 os를 어느 sd카드에 write할지 고를 수 있다. <br>
+#### 2. raspberry pi setting <br>
+1) sd카드를 포맷한다(cmd로도 가능) - sdcard formatter 설치 후 format하면 됨. <br>
+2) sd카드를 노트북에 꼽고 rasbian write. os설치 후 프로그램을 실행하면 자동으로 어떤 os를 어느 sd카드에 write할지 고를 수 있다. <br>
 > rasbian download) https://www.raspberrypi.org/downloads/ <br>
-3. sd카드를 라즈베리파이에 꼽고 전원선과 HDMI선을 연결하면 끝! <br>
+3) sd카드를 라즈베리파이에 꼽고 전원선과 HDMI선을 연결하면 끝! <br>
 
 #### 3. vnc설정
-##### 라즈베리파이를 항상 가지고 다닐수 없으니 원격으로 제어할 수 있는 프로그램이 필요했다.
-##### vnc viewer 설치
+라즈베리파이를 항상 가지고 다닐수 없으니 원격으로 제어할 수 있는 프로그램이 필요했다. <br>
+<vnc viewer 설치>
 vnc viewer를 설치하면 raspberry pi ip를 입력하여 연결하면 화면을 볼 수 있다.(회원가입 필요) <br>
 > https://www.realvnc.com/en/connect/download/viewer/ <br>
 * raspberri pi 
