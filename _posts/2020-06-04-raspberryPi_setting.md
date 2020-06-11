@@ -18,7 +18,7 @@ categories: raspberrypi server xproject
 #### 2. raspberry pi setting <br>
 1) sd카드를 포맷한다(cmd로도 가능) - sdcard formatter 설치 후 format하면 됨. <br>
 2) sd카드를 노트북에 꼽고 rasbian write. os설치 후 프로그램을 실행하면 자동으로 어떤 os를 어느 sd카드에 write할지 고를 수 있다. <br>
-> rasbian download) https://www.raspberrypi.org/downloads/ <br>
+> rasbian download) https://www.raspberrypi.org/downloads/ 
 3) sd카드를 라즈베리파이에 꼽고 전원선과 HDMI선을 연결하면 끝! <br>
 
 #### 3. vnc설정
