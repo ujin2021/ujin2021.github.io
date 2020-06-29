@@ -12,7 +12,7 @@ $ cd <workspace> <br>
 $ python -m venv venv -> python 가상환경을 만든다. <br>
 $ source venv/Scripts/activate -> 가상환경으로 들어감. (venv)가 뜬다. <br>
 ($ deactivate -> 가상환경에서 나올 때) <br>
-(venv) $ pip install Django==3.6.0 -> django 3.6.0 버전을 install 한다. <br>
+(venv) $ pip install Django==3.0.6 -> django 3.0.6 버전을 install 한다. <br>
 $ django-admin startproject [project_name] -> project를 만든다. <br>
 $ cd [project_name] -> ls 했을 때 manage.py 가 있는 곳! <br>
 $ python manage.py startapp [app_name] -> app을 만든다. <br>
